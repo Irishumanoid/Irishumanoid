@@ -1,6 +1,5 @@
 # **Hi there 👋 I'm Iris (humanoid 👽)**
 
-## Intro
 I mainly make projects relating to control theory and other applied math, robotics, and random backends for websites (usually with Flask). I use Java, Python, JS, MATLAB, LaTeX (it's markdown, but I'll count it) and sometimes, if I'm feeling edgy, Rust. 
 
 ## Relevant experience
