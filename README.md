@@ -2,12 +2,19 @@
 
 I mainly make projects relating to control theory and other applied math, robotics, and random backends for websites (usually with Flask). I use Java, Python, JS, MATLAB, LaTeX (it's markdown, but I'll count it) and sometimes, if I'm feeling edgy, Rust. 
 
-## Relevant experience
-✅ UW UbiComp Lab Intern Summer 2023: worked on a speech diarization pipeline to provide feedback on conversations by detecting speakers and analyzing their contributions
+## Relevant past and present experiences
 
-✅  3 years of robotics coding experience on a First Robotics team
+✅ University of Washington UbiComp Lab Intern: speech diarization pipeline to provide feedback on conversations by detecting speakers and analyzing their contributions
 
-✅  Various hackathons
+✅ Washington State University Intern: modeling and predicting the impact of extreme weather events upon the power grid
+
+✅ Yekola NLP Startup Intern: backend infrastructure to support multiplatform deployment of application to learn low-resource African languages, model research and training
+
+✅ Non Trivial Fellowship: research into the environmental impacts of training AI/ML models due to infrastructure requirements and lack of energy consumption transparency
+
+✅ 3 years of robotics coding experience (WPILib command-based) on First Robotics team ChainLynx 8248
+
+✅ Various hackathons (EMP Hackfest, Hack PNW)
 
 <!--
 **Irishumanoid/Irishumanoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
