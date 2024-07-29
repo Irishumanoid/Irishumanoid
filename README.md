@@ -10,7 +10,7 @@ I mainly make projects relating to control theory and other applied math, roboti
 
 ✅ Yekola NLP Startup Intern: backend infrastructure to support multiplatform deployment of application to learn low-resource African languages, model research and training
 
-✅ Non Trivial Fellowship: research into the environmental impacts of training AI/ML models due to infrastructure requirements and lack of energy consumption transparency
+✅ Non Trivial Fellowship: research into how neuromorphic computing can improve the infrastructure of smart cities
 
 ✅ 3 years of robotics coding experience (WPILib command-based) on First Robotics team ChainLynx 8248
 
