@@ -1,18 +1,18 @@
 # **Hi there 👋 I'm Iris (humanoid 👽)**
 
-I mainly make projects relating to control theory and other applied math, robotics, and random backends for websites (usually with Flask). I use Java, Python, JS, MATLAB, LaTeX (it's markdown, but I'll count it) and sometimes, if I'm feeling edgy, Rust. 
+I mainly make projects relating to control theory and other applied math, robotics, miscellaneous websites (Flask, React) and backends for apps (AWS, Android Studio). I use Java, Python, JS, MATLAB, and sometimes, if I'm feeling edgy, Rust. 
 
-## Relevant past and present experiences
+## Relevant experiences
 
 ✅ University of Washington UbiComp Lab Intern: speech diarization pipeline to provide feedback on conversations by detecting speakers and analyzing their contributions
 
 ✅ Washington State University Intern: modeling and predicting the impact of extreme weather events upon the power grid
 
-✅ Yekola NLP Startup Intern: backend infrastructure to support multiplatform deployment of application to learn low-resource African languages, model research and training
+✅ Yekola NLP Startup Intern: backend infrastructure to support multiplatform deployment of an application to learn low-resource African languages; model research and finetuning
 
-✅ Non Trivial Fellowship: research into how neuromorphic computing can improve the infrastructure of smart cities
+✅ Non Trivial Fellowship: research into how neuromorphic computing can improve the infrastructure of smart cities with SNN-based performance simulation
 
-✅ 3 years of robotics coding experience (WPILib command-based) on First Robotics team ChainLynx 8248
+✅ 3+ years of robotics coding experience (WPILib command-based) on First Robotics team ChainLynx 8248
 
 ✅ Various hackathons (EMP Hackfest, Hack PNW)
 
